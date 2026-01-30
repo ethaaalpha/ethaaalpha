@@ -3,7 +3,7 @@ Currently, Software engineer at INSA Lyon.
 
 # Projects
 
-## Personnal lab
+## Personal lab
 [badtube](https://github.com/ethaaalpha/samples/tree/main/badtube): Torrent based streaming website with OIDC and on the fly conversion with __fastapi__, __react__ (frontend unfinished)  
 [gnl_speed_tester](https://github.com/ethaaalpha/gnl_speed_tester): Tool to test perfomance of GNL 42 Project, used by school'tutoring  
 [cat-and-chat](https://github.com/ethaaalpha/cat-and-chat): Small game to discover websocket using __nestjs__.  
