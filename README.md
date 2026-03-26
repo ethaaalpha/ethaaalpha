@@ -1,5 +1,5 @@
 Welcome to my profile :)  
-Currently, Software engineer at INSA Lyon.
+Software engineer, I guess.
 
 # Projects
 
